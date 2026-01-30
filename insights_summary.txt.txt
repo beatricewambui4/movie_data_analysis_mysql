@@ -1,0 +1,7 @@
+MOVIE DATA ANALYSIS  KEY INSIGHTS
+
+• High budget movies do not always have the best ratings
+• A few blockbuster movies generate most revenue
+• Movie production increased after 1952
+• Some low-budget films made very high profit
+• Popularity often relates to higher revenue
