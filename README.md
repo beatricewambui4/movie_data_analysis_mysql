@@ -4,6 +4,7 @@ Movie Data Analysis using MySQL
 This project involves a comprehensive analysis of a movie dataset using MySQL. The goal is to extract meaningful insights and answer important business questions about movie performance, audience ratings, financial success, and industry trends.
 This project demonstrates practical SQL skills used in data analysis, including aggregation, filtering, grouping, subqueries, and window functions.
 
+
 ##Objectives
 •	Analyze movie popularity and audience ratings
 •	Evaluate financial performance using budget, revenue, and profit
